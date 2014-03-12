@@ -22,7 +22,7 @@ class MadLib
 	def initialize
 		@story = ""
 		@word_array = []
-		@madlib_types = ["Pirate", "LooneyTune", "Space", "Penguin"]
+		@madlib_types = ["LooneyTune", "Space", "Penguin"]
 		puts "Which MadLib would you like to play?"
 		n = @madlib_types.length
 		for i in 0...(n-1)
