@@ -6,9 +6,7 @@ Gem::Specification.new do |s|
   s.description = "Lynn's implementation of the MadLib game"
   s.authors     = ["Lynn Conway"]
   s.email       = 'lconway@bendbroadband.com'
-  s.files       = ["lib/madlib_lynn_gem.rb","lib/test_madlib.txt",
-                  "lib/space.madlib.txt","lib/penguin.madlib.txt",
-                  "lib/looneytune.madlib.txt"]
+  s.files       = ["lib/madlib_lynn_gem.rb", "lib/test_madlib.txt", "lib/penguin_madlib.txt", "lib/space_madlib.txt", "lib/looneytune_madlib.txt"]
   s.homepage    =
     'http://rubygems.org/gems/lynn_madlib_gem'
   s.license       = 'MIT'
